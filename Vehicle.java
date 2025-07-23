@@ -1,5 +1,5 @@
 // This is multilevel inheritance in java 
-package inheritance;
+
 public class Vehicle {   //grandparent class
     void start() {   //
         System.out.println("Vehicle is starting");
