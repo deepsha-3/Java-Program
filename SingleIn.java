@@ -16,7 +16,7 @@ class BMW extends Car {
 }
 
 // Main class with the entry point
-public class Main {
+public class SingleIn {
     public static void main(String[] args) {
         BMW myBMW = new BMW();
         myBMW.start(); // Inherited from Car
