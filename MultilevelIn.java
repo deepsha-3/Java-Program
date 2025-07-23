@@ -1,6 +1,6 @@
 // This is multilevel inheritance in java 
 
-public class Vehicle {   //grandparent class
+ class Vehicle {   //grandparent class
     void start() {   //
         System.out.println("Vehicle is starting");
     }
@@ -16,7 +16,8 @@ class BMW extends Car {  //child class
     void park() {
         System.out.println("BMW is parking");
     }
-
+}
+public class MultilevelIn {
     public static void main(String[] args) {
         BMW myBMW = new BMW();
         myBMW.start();
