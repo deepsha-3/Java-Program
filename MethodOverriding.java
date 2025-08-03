@@ -1,4 +1,4 @@
-
+// method overriding example in java. This is also known as runtime polymorphism
 // Parent.java
 class Parent {
     public void write() {
