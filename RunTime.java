@@ -1,3 +1,4 @@
+// runtime polymorphism example in java. This is also known as method overriding.
 // Parent.java
  class Parent {
     public void display() {
