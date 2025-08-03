@@ -2,7 +2,7 @@
 // Parent.java
 class Parent {
     public void write() {
-        System.out.println("Parent write()");
+        System.out.println("Parent write.");
     }
 }
 
