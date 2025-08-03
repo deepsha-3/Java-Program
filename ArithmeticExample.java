@@ -1,4 +1,4 @@
-
+// ArithmeticExample is an example of handling arithmetic exceptions in Java.
 
 public class ArithmeticExample {
     public static void main(String[] args) {
