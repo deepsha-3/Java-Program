@@ -9,7 +9,7 @@ public class methodOverloading {
     public static void main(String[] args) {
         methodOverloading obj = new methodOverloading();
         System.out.println("Sum of integers: " + obj.add(5, 10)); 
-        System.out.println("Sum of doubles: " + obj.add(5.5, 10.5)); // Calls the second add method
+        System.out.println("Sum of doubles: " + obj.add(5.5, 10.5)); 
     }
 
 }
