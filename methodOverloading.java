@@ -6,5 +6,9 @@ public class methodOverloading {
     public double add(double a, double b) {
         return a + b;
     }
+    public static void main(String[] args) {
+        methodOverloading obj = new methodOverloading();
+        System.out.println("Sum of integers: " + obj.add(5, 10)); // Calls the first add method
+    }
 }
 
